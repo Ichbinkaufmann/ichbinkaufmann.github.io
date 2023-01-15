@@ -1,0 +1,63 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: blueviolet;
+  background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+
+#about {
+  background-color: #0099ff;
+  background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+
+#projects {
+  padding-top: 2rem;
+  background-color: blueviolet;
+  background-image: linear-gradient(0deg, #3eecac 0%, #ee74e1 100%);
+}
+
+#inquiry {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: blueviolet;
+  background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+
+#the-count {
+  float: right;
+  padding: 0.1rem 0 0 0;
+  font-size: 0.875rem;
+}
+
+.btn-close {
+  right: 0%;
+}
+
+.close-button {
+  border: none;
+  display: inline-block;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background-color: inherit;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.topright {
+  position: absolute;
+  right: 0;
+  top: 12px;
+}
+
+#footer {
+  background-color: black;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.social {
+  padding-right: 1rem;
+}
