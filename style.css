@@ -61,3 +61,17 @@
 .social {
   padding-right: 1rem;
 }
+
+.pemisah {
+  height: 10px;
+}
+
+.end {
+  align-items: end;
+}
+
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}
